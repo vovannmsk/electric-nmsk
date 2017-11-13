@@ -1,0 +1,275 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://vovuxa7f.beget.tech" ftp_rootfolder="//electric-nmsk.ru/public_html" exportTarget="FTP" domain="electric-nmsk.ru" resolutions="1x" timestamp="1505238905519">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4277866032" ref="index"/>
+    <file name="nomq_index.css" crc="4129459960" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="_______-__-______.css" crc="3837878889" ref="спасибо-за-заявку"/>
+    <file name="nomq________-__-______.css" crc="18087868" ref="спасибо-за-заявку"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:спасибо-за-заявку"/>
+    <file name="museutils.js" crc="4232573551" ref="index:спасибо-за-заявку"/>
+    <file name="whatinput.js" crc="86476730" ref="index:спасибо-за-заявку"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:спасибо-за-заявку"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:спасибо-за-заявку"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u3933.php" crc="415319129" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="form-u399.php" crc="4077482545" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:спасибо-за-заявку"/>
+    <file name="require.js" crc="4234670167" ref="index:спасибо-за-заявку"/>
+  </folder>
+  <folder name="images">
+    <file name="man.png" crc="4153064579" seo="true" ref="index:спасибо-за-заявку">
+      <caption webpage="index" alt=""/>
+      <caption webpage="спасибо-за-заявку" alt=""/>
+    </file>
+    <file name="1234.png" crc="4261727882" seo="true" ref="index:спасибо-за-заявку">
+      <caption webpage="index" alt="Услуги электрика в Новомосковске"/>
+      <caption webpage="спасибо-за-заявку" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:спасибо-за-заявку"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="korobka.jpg" crc="41339780" seo="true" ref="index">
+      <caption webpage="index" alt="Услуги электрика в Новомосковске"/>
+      <caption webpage="index" alt="Услуги электрика в Новомосковске"/>
+    </file>
+    <file name="lustra.jpg" crc="4056044809" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plita.jpg" crc="112002593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="smartphone.png" crc="202108791" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12345.png" crc="149900079" seo="true" ref="index">
+      <caption webpage="index" alt="Услуги электрика в Новомосковске"/>
+      <caption webpage="index" alt="Услуги электрика в Новомосковске"/>
+      <caption webpage="index" alt="Услуги электрика в Новомосковске"/>
+    </file>
+    <file name="1234270x405.png" crc="100975139" seo="true" ref="index">
+      <caption webpage="index" alt="Услуги электрика в Новомосковске"/>
+    </file>
+    <file name="man121x162.png" crc="4153064579" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lustra639x480.jpg" crc="4205129987" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1234229x344.png" crc="3784976101" seo="true" ref="index">
+      <caption webpage="index" alt="Услуги электрика в Новомосковске"/>
+      <caption webpage="index" alt="Услуги электрика в Новомосковске"/>
+    </file>
+    <file name="man75x99.png" crc="441363215" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="korobka460x345.jpg" crc="41339780" seo="true" ref="index">
+      <caption webpage="index" alt="Услуги электрика в Новомосковске"/>
+    </file>
+    <file name="lustra460x345.jpg" crc="105518516" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plita460x345.jpg" crc="3979763066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="man74x99.png" crc="441363215" seo="true" ref="спасибо-за-заявку">
+      <caption webpage="спасибо-за-заявку" alt=""/>
+      <caption webpage="спасибо-за-заявку" alt=""/>
+    </file>
+    <file name="checked-u10778.png" crc="467546427" ref="index"/>
+    <file name="like-u10806.png" crc="280413261" ref="index"/>
+    <file name="trophy-u10828.png" crc="171692858" ref="index"/>
+    <file name="checked-u107782.png" crc="205808461" ref="index"/>
+    <file name="like-u108062.png" crc="3863277946" ref="index"/>
+    <file name="trophy-u108282.png" crc="96713280" ref="index"/>
+    <file name="checked-u107783.png" crc="104724845" ref="index"/>
+    <file name="like-u108063.png" crc="8973152" ref="index"/>
+    <file name="trophy-u108283.png" crc="449615115" ref="index"/>
+    <file name="checked-u107784.png" crc="104724845" ref="index"/>
+    <file name="like-u108064.png" crc="8973152" ref="index"/>
+    <file name="trophy-u108284.png" crc="449615115" ref="index"/>
+    <file name="korobka334x250.jpg" crc="177157044" seo="true" ref="index">
+      <caption webpage="index" alt="Услуги электрика в Новомосковске"/>
+    </file>
+    <file name="lustra334x250.jpg" crc="24028336" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plita334x250.jpg" crc="35247571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12345224x367.png" crc="72091852" seo="true" ref="index">
+      <caption webpage="index" alt="Услуги электрика в Новомосковске"/>
+    </file>
+    <file name="1234208x312.png" crc="4168351325" seo="true" ref="спасибо-за-заявку">
+      <caption webpage="спасибо-за-заявку" alt=""/>
+    </file>
+    <file name="бригада-электриков-из-новомосковска-favicon.ico" crc="163339368" ref="index"/>
+    <file name="svet.jpg" crc="4083606078" seo="true" ref="index">
+      <caption webpage="index" alt="Услуги электрика в Новомосковске"/>
+      <caption webpage="index" alt="Услуги электрика в Новомосковске"/>
+      <caption webpage="index" alt="Услуги электрика в Новомосковске"/>
+      <caption webpage="index" alt="Услуги электрика в Новомосковске"/>
+    </file>
+    <file name="montage.jpg" crc="4192040188" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prokladka.jpg" crc="3996512025" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scheet.jpg" crc="3838906675" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="project3.jpg" crc="3925069324" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prokladka694x415.jpg" crc="3893848123" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scheet639x426.jpg" crc="4006010158" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prokladka752x450.jpg" crc="280887833" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scheet675x450.jpg" crc="4177060253" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svet481x320.jpg" crc="4000496457" seo="true" ref="index">
+      <caption webpage="index" alt="Услуги электрика в Новомосковске"/>
+      <caption webpage="index" alt="Услуги электрика в Новомосковске"/>
+    </file>
+    <file name="montage460x345.jpg" crc="372392972" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prokladka535x320.jpg" crc="237421945" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scheet480x321.jpg" crc="520547242" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="project3460x345.jpg" crc="146437792" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scheet480x320.jpg" crc="520547242" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svet376x251.jpg" crc="4179891176" seo="true" ref="index">
+      <caption webpage="index" alt="Услуги электрика в Новомосковске"/>
+      <caption webpage="index" alt="Услуги электрика в Новомосковске"/>
+    </file>
+    <file name="montage334x250.jpg" crc="3935811053" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prokladka-crop-u1479.jpg" crc="3970310146" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scheet375x251.jpg" crc="3994696226" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="project3334x250.jpg" crc="4092034719" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prokladka-crop-u1592.jpg" crc="3970310146" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="check-u16915.png" crc="220844729" ref="index"/>
+    <file name="hourglass-u16816.png" crc="116935775" ref="index"/>
+    <file name="atm-u16795.png" crc="4186946040" ref="index"/>
+    <file name="team-u16970.png" crc="276019948" ref="index"/>
+    <file name="money-bag-u16995.png" crc="3978920043" ref="index"/>
+    <file name="driller-u17023.png" crc="4045099876" ref="index"/>
+    <file name="user-u17107.png" crc="4280271624" ref="index"/>
+    <file name="contract-u17167.png" crc="4168846890" ref="index"/>
+    <file name="diamond-u17151.png" crc="4125410820" ref="index"/>
+    <file name="like (1)-u17123.png" crc="43118071" ref="index"/>
+    <file name="rocket-u17244.png" crc="3979241543" ref="index"/>
+    <file name="check-u169152.png" crc="201431939" ref="index"/>
+    <file name="hourglass-u168162.png" crc="484996964" ref="index"/>
+    <file name="atm-u167952.png" crc="460678605" ref="index"/>
+    <file name="team-u169702.png" crc="463377527" ref="index"/>
+    <file name="money-bag-u169952.png" crc="4006103940" ref="index"/>
+    <file name="driller-u170232.png" crc="4160217213" ref="index"/>
+    <file name="user-u171072.png" crc="3918524515" ref="index"/>
+    <file name="contract-u171672.png" crc="4109369427" ref="index"/>
+    <file name="diamond-u171512.png" crc="246413355" ref="index"/>
+    <file name="like (1)-u171232.png" crc="3901782172" ref="index"/>
+    <file name="rocket-u172442.png" crc="3765055408" ref="index"/>
+    <file name="check-u169153.png" crc="430589577" ref="index"/>
+    <file name="hourglass-u168163.png" crc="125889328" ref="index"/>
+    <file name="atm-u167953.png" crc="4019705066" ref="index"/>
+    <file name="team-u169703.png" crc="63148317" ref="index"/>
+    <file name="money-bag-u169953.png" crc="3773178607" ref="index"/>
+    <file name="driller-u170233.png" crc="359932700" ref="index"/>
+    <file name="user-u171073.png" crc="3773615308" ref="index"/>
+    <file name="contract-u171673.png" crc="440448971" ref="index"/>
+    <file name="diamond-u171513.png" crc="4125934641" ref="index"/>
+    <file name="like (1)-u171233.png" crc="4041528803" ref="index"/>
+    <file name="rocket-u172443.png" crc="381982231" ref="index"/>
+    <file name="check-u169154.png" crc="4091301225" ref="index"/>
+    <file name="hourglass-u168164.png" crc="3875644454" ref="index"/>
+    <file name="atm-u167954.png" crc="390319371" ref="index"/>
+    <file name="team-u169704.png" crc="436612293" ref="index"/>
+    <file name="money-bag-u169954.png" crc="4031575852" ref="index"/>
+    <file name="driller-u170234.png" crc="376219792" ref="index"/>
+    <file name="user-u171074.png" crc="3896951622" ref="index"/>
+    <file name="like (1)-u171234.png" crc="3900128574" ref="index"/>
+    <file name="diamond-u171514.png" crc="3784310162" ref="index"/>
+    <file name="contract-u171674.png" crc="152390288" ref="index"/>
+    <file name="rocket-u172444.png" crc="3965605663" ref="index"/>
+    <file name="спасибо-за-заявку-favicon.ico" crc="163339368" ref="спасибо-за-заявку"/>
+  </folder>
+  <file name="index.html" crc="457311639" seo="true" mt="1505238736558" redirect="true"/>
+  <file name="спасибо-за-заявку.html" crc="509997886" seo="true" mt="1505238865165" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U48"/>
+    <nestedListStyle className="nls-None" uid="U51"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Бригада электриков из Новомосковска" filename="index.html" muse_href="page:U74" master="U65">
+        <breakpoint uid="U11506" maxwidth="470" minwidth="0" squishy="true"/>
+        <breakpoint uid="U7617" maxwidth="850" minwidth="471" squishy="true"/>
+        <breakpoint uid="U3123" maxwidth="1280" minwidth="851" squishy="true"/>
+        <breakpoint uid="U1727" maxwidth="1400" minwidth="1281" squishy="true"/>
+      </page>
+      <masterPage name="Шаблон-A" master="U61" uid="U65">
+        <breakpoint uid="U1731" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U61">
+        <breakpoint uid="U1729" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="Спасибо за заявку" filename="спасибо-за-заявку.html" muse_href="page:U334" master="U65">
+        <breakpoint uid="U14579" maxwidth="470" minwidth="0" squishy="true"/>
+        <breakpoint uid="U8599" maxwidth="850" minwidth="471" squishy="true"/>
+        <breakpoint uid="U5670" maxwidth="1250" minwidth="851" squishy="false"/>
+        <breakpoint uid="U1732" maxwidth="1400" minwidth="1251" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
